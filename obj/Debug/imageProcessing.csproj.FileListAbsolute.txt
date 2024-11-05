@@ -1,0 +1,4 @@
+C:\Users\bacus\source\repos\imageProcessing\imageProcessing\obj\Debug\imageProcessing.csproj.AssemblyReference.cache
+C:\Users\bacus\source\repos\imageProcessing\imageProcessing\obj\Debug\imageProcessing.Properties.Resources.resources
+C:\Users\bacus\source\repos\imageProcessing\imageProcessing\obj\Debug\imageProcessing.csproj.GenerateResource.cache
+C:\Users\bacus\source\repos\imageProcessing\imageProcessing\obj\Debug\imageProcessing.csproj.CoreCompileInputs.cache
